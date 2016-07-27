@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei:section xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="Sme-s-m-l-e9095730" label="C" xmlns:ly="https://lychee.ncodamusic.org" ly:version="0.4.0">
+    <mei:scoreDef>
+        <mei:staffGrp symbol="none">
+            <mei:staffGrp symbol="bracket">
+                <mei:staffDef label="Flutes" clef.line="2" clef.shape="G" lines="5" n="1" key.sig="3f"/>
+                <mei:staffDef label="Oboes" clef.line="2" clef.shape="G" lines="5" n="2" key.sig="3f"/>
+                <mei:staffDef label="Clarinets" clef.line="2" clef.shape="G" lines="5" n="3" key.sig="1f" trans.diat="-1" trans.semi="-2"/>
+                <mei:staffDef label="Bassoons" clef.line="4" clef.shape="F" lines="5" n="4" key.sig="3f"/>
+            </mei:staffGrp>
+            <mei:staffGrp symbol="brace">
+                <mei:staffDef label="Horns 1 &amp; 3" clef.line="2" clef.shape="G" lines="5" n="5" key.sig="0f" trans.diat="-5" trans.semi="-7"/>
+                <mei:staffDef label="Horns 2 &amp; 4" clef.line="2" clef.shape="G" lines="5" n="6" key.sig="0f" trans.diat="-5" trans.semi="-7"/>
+            </mei:staffGrp>
+            <mei:staffGrp symbol="bracket">
+                <mei:staffGrp symbol="brace">
+                    <mei:staffDef label="Violin I" clef.line="2" clef.shape="G" lines="5" n="7" key.sig="3f"/>
+                    <mei:staffDef label="Violin II" clef.line="2" clef.shape="G" lines="5" n="8" key.sig="3f"/>
+                </mei:staffGrp>
+                <mei:staffDef label="Viola" clef.line="3" clef.shape="C" lines="5" n="9" key.sig="3f"/>
+                <mei:staffGrp symbol="brace">
+                    <mei:staffDef label="Cello" clef.line="4" clef.shape="C" lines="5" n="10" key.sig="3f"/>
+                    <mei:staffDef label="Double Bass" clef.line="4" clef.shape="F" lines="5" n="11" key.sig="3f" trans.diat="-8" trans.semi="-12"/>
+                </mei:staffGrp>
+            </mei:staffGrp>
+        </mei:staffGrp>
+    </mei:scoreDef>
+
+    <!-- Flutes -->
+    <mei:staff n="1" xml:id="S9095730-sme-m-l-e2927136">
+        <mei:measure n="1" xml:id="S9095730-s2927136-mme-l-e6993207">
+            <mei:layer n="1" xml:id="S9095730-s2927136-m6993207-lme-e5618244">
+                <mei:rest dur="4" xml:id="S9095730-s2927136-m6993207-l5618244-e6590235"/>
+                <mei:chord dur="4" xml:id="S9095730-s2927136-m6993207-l5618244-e4402802">
+                    <mei:note oct="5" pname="f"/>
+                    <mei:note oct="6" pname="f"/>
+                </mei:chord>
+            </mei:layer>
+        </mei:measure>
+    </mei:staff>
+
+    <!-- Oboes -->
+    <mei:staff n="2" xml:id="S9095730-sme-m-l-e4943239">
+        <mei:measure n="1" xml:id="S9095730-s4943239-mme-l-e6814477">
+            <mei:layer n="1" xml:id="S9095730-s4943239-m6814477-lme-e1314019">
+                <mei:rest dur="4" xml:id="S9095730-s4943239-m6814477-l1314019-e8190322"/>
+                <mei:chord dur="4" xml:id="S9095730-s4943239-m6814477-l1314019-e8973058">
+                    <mei:note oct="4" pname="f"/>
+                    <mei:note oct="5" pname="f"/>
+                </mei:chord>
+            </mei:layer>
+        </mei:measure>
+    </mei:staff>
+
+    <!-- Clarinets -->
+    <mei:staff n="3" xml:id="S9095730-sme-m-l-e8657246">
+        <mei:measure n="1" xml:id="S9095730-s8657246-mme-l-e9399749">
+            <mei:layer n="1" xml:id="S9095730-s8657246-m9399749-lme-e2175028">
+                <mei:rest dur="4" xml:id="S9095730-s8657246-m9399749-l2175028-e2901286"/>
+                <mei:note dur="4" oct="5" pname="g" xml:id="S9095730-s8657246-m9399749-l2175028-e5738172"/>
+            </mei:layer>
+        </mei:measure>
+    </mei:staff>
+
+    <!-- Bassoons -->
+    <mei:staff n="4" xml:id="S9095730-sme-m-l-e7896196">
+        <mei:measure n="1" xml:id="S9095730-s7896196-mme-l-e8282779">
+            <mei:layer n="1" xml:id="S9095730-s7896196-m8282779-lme-e2840462">
+                <mei:note dur="2" oct="2" pname="b" accid.ges="f" xml:id="S9095730-s7896196-m8282779-l2840462-e6045607"/>
+            </mei:layer>
+        </mei:measure>
+    </mei:staff>
+
+    <!-- Horn 1 & 3 -->
+    <mei:staff n="5" xml:id="S9095730-sme-m-l-e4894988">
+        <mei:measure n="1" xml:id="S9095730-s4894988-mme-l-e1705763">
+            <mei:layer n="1" xml:id="S9095730-s4894988-m1705763-lme-e8416005">
+                <mei:note dur="2" oct="4" pname="b" accid.ges="f" accid="f" xml:id="S9095730-s4894988-m1705763-l8416005-e3793012"/>
+            </mei:layer>
+            <mei:layer n="2" xml:id="S9095730-s4894988-m1705763-lme-e4238264">
+                <mei:note dur="2" oct="4" pname="g" xml:id="S9095730-s4894988-m1705763-l4238264-e2441481"/>
+            </mei:layer>
+        </mei:measure>
+    </mei:staff>
+
+    <!-- Horns 2 & 4 -->
+    <mei:staff n="6" xml:id="S9095730-sme-m-l-e9347526">
+        <mei:measure n="1" xml:id="S9095730-s9347526-mme-l-e1118048">
+            <mei:layer n="1" xml:id="S9095730-s9347526-m1118048-lme-e3647144">
+                <mei:note dur="2" oct="4" pname="b" accid.ges="f" accid="f" xml:id="S9095730-s9347526-m1118048-l3647144-e6395441"/>
+            </mei:layer>
+            <mei:layer n="2" xml:id="S9095730-s9347526-m1118048-lme-e3277546">
+                <mei:note dur="2" oct="4" pname="g" xml:id="S9095730-s9347526-m1118048-l3277546-e7415380"/>
+            </mei:layer>
+        </mei:measure>
+    </mei:staff>
+
+    <!-- Violins 1 -->
+    <mei:staff n="7" xml:id="S9095730-sme-m-l-e6361573">
+        <mei:measure n="1" xml:id="S9095730-s6361573-mme-l-e7482053">
+            <mei:layer n="1" xml:id="S9095730-s6361573-m7482053-lme-e9456352">
+                <mei:note dur="2" oct="4" pname="d" accid.ges="f" xml:id="S9095730-s6361573-m7482053-l9456352-e6502517"/>
+            </mei:layer>
+            <mei:layer n="2" xml:id="S9095730-s6361573-m7482053-lme-e2654518">
+                <mei:note dur="2" oct="4" pname="c" xml:id="S9095730-s6361573-m7482053-l2654518-e9002153"/>
+            </mei:layer>
+        </mei:measure>
+    </mei:staff>
+
+    <!-- Violins 2 -->
+    <mei:staff n="8" xml:id="S9095730-sme-m-l-e6028017">
+        <mei:measure n="1" xml:id="S9095730-s6028017-mme-l-e9068076">
+            <mei:layer n="1" xml:id="S9095730-s6028017-m9068076-lme-e2793927">
+                <mei:note dur="2" oct="4" pname="e" accid.ges="f" xml:id="S9095730-s6028017-m9068076-l2793927-e5478096"/>
+            </mei:layer>
+            <mei:layer n="2" xml:id="S9095730-s6028017-m9068076-lme-e6516248">
+                <mei:note dur="2" oct="4" pname="c" xml:id="S9095730-s6028017-m9068076-l6516248-e9552605"/>
+            </mei:layer>
+        </mei:measure>
+    </mei:staff>
+
+    <!-- Violas -->
+    <mei:staff n="9" xml:id="S9095730-sme-m-l-e5930088">
+        <mei:measure n="1" xml:id="S9095730-s5930088-mme-l-e8011978">
+            <mei:layer n="1" xml:id="S9095730-s5930088-m8011978-lme-e8368448">
+                <mei:note dur="2" oct="4" pname="b" accid.ges="f" xml:id="S9095730-s5930088-m8011978-l8368448-e4929638"/>
+            </mei:layer>
+            <mei:layer n="2" xml:id="S9095730-s5930088-m8011978-lme-e4116403">
+                <mei:note dur="2" oct="4" pname="g" xml:id="S9095730-s5930088-m8011978-l4116403-e4326670"/>
+            </mei:layer>
+        </mei:measure>
+    </mei:staff>
+
+    <!-- Chelloz -->
+    <mei:staff n="10" xml:id="S9095730-sme-m-l-e6546965">
+        <mei:measure n="1" xml:id="S9095730-s6546965-mme-l-e6673557">
+            <mei:layer n="1" xml:id="S9095730-s6546965-m6673557-lme-e7322146">
+                <mei:rest dur="4" xml:id="S9095730-s6546965-m6673557-l7322146-e6313768"/>
+                <mei:note dur="4" oct="4" pname="f" xml:id="S9095730-s6546965-m6673557-l7322146-e6343883"/>
+            </mei:layer>
+        </mei:measure>
+    </mei:staff>
+
+    <!-- Double Basses -->
+    <mei:staff n="11" xml:id="S9095730-sme-m-l-e9064771">
+        <mei:measure n="1" xml:id="S9095730-s9064771-mme-l-e9717161">
+            <mei:layer n="1" xml:id="S9095730-s9064771-m9717161-lme-e2945720">
+                <mei:note dur="2" oct="3" pname="b" accid.ges="f" xml:id="S9095730-s9064771-m9717161-l2945720-e4964208"/>
+            </mei:layer>
+        </mei:measure>
+    </mei:staff>
+</mei:section>

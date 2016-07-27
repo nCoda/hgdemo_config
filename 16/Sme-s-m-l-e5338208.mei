@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei:section xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="Sme-s-m-l-e5338208" label="A" xmlns:ly="https://lychee.ncodamusic.org" ly:version="0.4.0">
+    <mei:scoreDef>
+        <mei:staffGrp symbol="line">
+            <mei:staffGrp symbol="line">
+                <mei:staffDef label="Violin I" clef.line="2" clef.shape="G" lines="5" n="1" key.sig="1s" meter.count="3" meter.unit="2"/>
+                <mei:staffDef label="Violin II" clef.line="2" clef.shape="G" lines="5" n="2" key.sig="1s" meter.count="3" meter.unit="2"/>
+            </mei:staffGrp>
+            <mei:staffDef label="Viola" clef.line="3" clef.shape="C" lines="5" n="3" key.sig="1s" meter.count="3" meter.unit="2"/>
+            <mei:staffDef label="Cello" clef.line="4" clef.shape="F" lines="5" n="4" key.sig="1s" meter.count="3" meter.unit="2"/>
+            <mei:staffDef label="Double Bass" clef.line="4" clef.shape="F" lines="5" n="5" key.sig="1s" meter.count="3" meter.unit="2"/>
+        </mei:staffGrp>
+    </mei:scoreDef>
+
+    <!-- first violin -->
+    <mei:staff n="1" xml:id="S5338208-sme-m-l-e8826092">
+        <mei:measure n="1" xml:id="S5338208-s8826092-mme-l-e1049332">
+            <mei:layer n="1" xml:id="S5338208-s8826092-m1049332-lme-e2567458">
+                <mei:rest dur="2" xml:id="S5338208-s8826092-m1049332-l2567458-e4680449"/>
+                <mei:rest dur="4" xml:id="S5338208-s8826092-m1049332-l2567458-e4431020"/>
+                <mei:note dur="4" oct="5" pname="a" xml:id="S5338208-s8826092-m1049332-l2567458-e4190103"/>
+                <mei:note dur="8" oct="5" pname="g" xml:id="S5338208-s8826092-m1049332-l2567458-e5924891"/>
+                <mei:note dur="8" oct="5" pname="f" xml:id="S5338208-s8826092-m1049332-l2567458-e8702624"/>
+                <mei:note dur="8" oct="5" pname="e" xml:id="S5338208-s8826092-m1049332-l2567458-e2082975"/>
+                <mei:note dur="8" oct="5" pname="e" xml:id="S5338208-s8826092-m1049332-l2567458-e1446810"/>
+            </mei:layer>
+        </mei:measure>
+        <mei:measure n="2" xml:id="S5338208-s8826092-mme-l-e4394410">
+            <mei:layer n="1" xml:id="S5338208-s8826092-m4394410-lme-e8423200">
+                <mei:note dur="8" oct="5" pname="g" xml:id="S5338208-s8826092-m4394410-l8423200-e6865083"/>
+                <mei:note dur="8" oct="5" pname="e" xml:id="S5338208-s8826092-m4394410-l8423200-e9046328"/>
+                <mei:note dur="4" oct="5" pname="d" xml:id="S5338208-s8826092-m4394410-l8423200-e3432264"/>
+                <mei:rest dur="4" xml:id="S5338208-s8826092-m4394410-l8423200-e7693016"/>
+                <mei:note dur="8" oct="6" pname="c" xml:id="S5338208-s8826092-m4394410-l8423200-e6852721"/>
+                <mei:note dur="8" oct="5" pname="b" xml:id="S5338208-s8826092-m4394410-l8423200-e7695438"/>
+                <mei:note dur="8" oct="5" pname="a" xml:id="S5338208-s8826092-m4394410-l8423200-e2568403"/>
+                <mei:note dur="8" oct="5" pname="g" xml:id="S5338208-s8826092-m4394410-l8423200-e6511209"/>
+                <mei:note dur="8" oct="5" pname="f" xml:id="S5338208-s8826092-m4394410-l8423200-e2990778"/>
+                <mei:note dur="8" oct="5" pname="g" xml:id="S5338208-s8826092-m4394410-l8423200-e8491560"/>
+            </mei:layer>
+        </mei:measure>
+        <mei:measure n="3" xml:id="S5338208-s8826092-mme-l-e7170300">
+            <mei:layer n="1" xml:id="S5338208-s8826092-m7170300-lme-e3835613">
+                <mei:note dur="4" oct="5" pname="a" xml:id="S5338208-s8826092-m7170300-l3835613-e5271752"/>
+                <mei:note dur="4" oct="5" pname="d" xml:id="S5338208-s8826092-m7170300-l3835613-e5679390"/>
+                <mei:rest dur="4" xml:id="S5338208-s8826092-m7170300-l3835613-e8113719"/>
+                <mei:note dur="8" oct="5" pname="b" xml:id="S5338208-s8826092-m7170300-l3835613-e6069439"/>
+                <mei:note dur="8" oct="5" pname="a" xml:id="S5338208-s8826092-m7170300-l3835613-e8731270"/>
+                <mei:note dur="8" oct="5" pname="g" xml:id="S5338208-s8826092-m7170300-l3835613-e5439674"/>
+                <mei:note dur="8" oct="5" pname="f" xml:id="S5338208-s8826092-m7170300-l3835613-e1266853"/>
+                <mei:note dur="8" oct="5" pname="e" xml:id="S5338208-s8826092-m7170300-l3835613-e3456622"/>
+                <mei:note dur="8" oct="5" pname="f" xml:id="S5338208-s8826092-m7170300-l3835613-e4735647"/>
+            </mei:layer>
+        </mei:measure>
+        <mei:measure n="4" xml:id="S5338208-s8826092-mme-l-e7602659">
+            <mei:layer n="1" xml:id="S5338208-s8826092-m7602659-lme-e8371581">
+                <mei:note dur="8" oct="5" pname="g" xml:id="S5338208-s8826092-m7602659-l8371581-e3319478"/>
+                <mei:note dur="8" oct="5" pname="f" xml:id="S5338208-s8826092-m7602659-l8371581-e1927286"/>
+                <mei:note dur="8" oct="5" pname="e" xml:id="S5338208-s8826092-m7602659-l8371581-e8006510"/>
+                <mei:note dur="8" oct="5" pname="d" xml:id="S5338208-s8826092-m7602659-l8371581-e3992405"/>
+                <mei:note dur="8" oct="5" pname="e" xml:id="S5338208-s8826092-m7602659-l8371581-e3683534"/>
+                <mei:note dur="8" oct="5" pname="f" xml:id="S5338208-s8826092-m7602659-l8371581-e5715851"/>
+                <mei:note dur="8" oct="5" pname="g" xml:id="S5338208-s8826092-m7602659-l8371581-e7506230"/>
+                <mei:note dur="8" oct="5" pname="b" xml:id="S5338208-s8826092-m7602659-l8371581-e3855048"/>
+                <mei:note dur="8" oct="5" pname="a" xml:id="S5338208-s8826092-m7602659-l8371581-e9255902"/>
+                <mei:note dur="8" oct="5" pname="g" xml:id="S5338208-s8826092-m7602659-l8371581-e3416750"/>
+                <mei:note dur="8" oct="5" pname="f" xml:id="S5338208-s8826092-m7602659-l8371581-e4389627"/>
+                <mei:note dur="8" oct="5" pname="e" xml:id="S5338208-s8826092-m7602659-l8371581-e6834708"/>
+            </mei:layer>
+        </mei:measure>
+    </mei:staff>
+
+    <!-- second violin -->
+    <mei:staff n="2" xml:id="S5338208-sme-m-l-e6032344">
+        <mei:measure n="1" xml:id="S5338208-s6032344-mme-l-e3824254">
+            <mei:layer n="1" xml:id="S5338208-s6032344-m3824254-lme-e2208283">
+                <mei:note dur="8" oct="5" pname="f" xml:id="S5338208-s6032344-m3824254-l2208283-e4037475"/>
+                <mei:note dur="8" oct="5" pname="e" xml:id="S5338208-s6032344-m3824254-l2208283-e4511782"/>
+                <mei:note dur="4" oct="5" pname="f" xml:id="S5338208-s6032344-m3824254-l2208283-e2740811"/>
+                <mei:rest dur="2" xml:id="S5338208-s6032344-m3824254-l2208283-e8670761"/>
+                <mei:rest dur="2" xml:id="S5338208-s6032344-m3824254-l2208283-e2968386"/>
+            </mei:layer>
+        </mei:measure>
+        <mei:measure n="2" xml:id="S5338208-s6032344-mme-l-e6628616">
+            <mei:layer n="1" xml:id="S5338208-s6032344-m6628616-lme-e9711913">
+                <mei:rest dur="2" xml:id="S5338208-s6032344-m6628616-l9711913-e4549558"/>
+                <mei:rest dur="4" xml:id="S5338208-s6032344-m6628616-l9711913-e8412163"/>
+                <mei:note dur="8" oct="5" pname="c" xml:id="S5338208-s6032344-m6628616-l9711913-e1662719"/>
+                <mei:note dur="8" oct="4" pname="b" xml:id="S5338208-s6032344-m6628616-l9711913-e2880996"/>
+                <mei:note dur="8" oct="4" pname="a" xml:id="S5338208-s6032344-m6628616-l9711913-e9044478"/>
+                <mei:note dur="8" oct="4" pname="g" xml:id="S5338208-s6032344-m6628616-l9711913-e3089209"/>
+                <mei:note dur="8" oct="4" pname="f" xml:id="S5338208-s6032344-m6628616-l9711913-e2921875"/>
+                <mei:note dur="8" oct="4" pname="g" xml:id="S5338208-s6032344-m6628616-l9711913-e6575756"/>
+            </mei:layer>
+        </mei:measure>
+        <mei:measure n="3" xml:id="S5338208-s6032344-mme-l-e4829946">
+            <mei:layer n="1" xml:id="S5338208-s6032344-m4829946-lme-e7738140">
+                <mei:note dur="4" oct="4" pname="a" xml:id="S5338208-s6032344-m4829946-l7738140-e7093405"/>
+                <mei:note dur="4" oct="4" pname="d" xml:id="S5338208-s6032344-m4829946-l7738140-e1157293"/>
+                <mei:rest dur="4" xml:id="S5338208-s6032344-m4829946-l7738140-e3327874"/>
+                <mei:note dur="8" oct="5" pname="d" xml:id="S5338208-s6032344-m4829946-l7738140-e4085744"/>
+                <mei:note dur="8" oct="5" pname="c" xml:id="S5338208-s6032344-m4829946-l7738140-e2293920"/>
+                <mei:note dur="8" oct="4" pname="b" xml:id="S5338208-s6032344-m4829946-l7738140-e1890471"/>
+                <mei:note dur="8" oct="4" pname="a" xml:id="S5338208-s6032344-m4829946-l7738140-e9917376"/>
+                <mei:note dur="8" oct="4" pname="g" xml:id="S5338208-s6032344-m4829946-l7738140-e4152123"/>
+                <mei:note dur="8" oct="4" pname="a" xml:id="S5338208-s6032344-m4829946-l7738140-e9640170"/>
+            </mei:layer>
+        </mei:measure>
+        <mei:measure n="4" xml:id="S5338208-s6032344-mme-l-e3650613">
+            <mei:layer n="1" xml:id="S5338208-s6032344-m3650613-lme-e5236807">
+                <mei:note dur="8" oct="4" pname="b" xml:id="S5338208-s6032344-m3650613-l5236807-e9237516"/>
+                <mei:note dur="8" oct="4" pname="a" xml:id="S5338208-s6032344-m3650613-l5236807-e5111983"/>
+                <mei:note dur="8" oct="4" pname="g" xml:id="S5338208-s6032344-m3650613-l5236807-e3789613"/>
+                <mei:note dur="8" oct="4" pname="f" xml:id="S5338208-s6032344-m3650613-l5236807-e8326190"/>
+                <mei:note dur="8" oct="4" pname="g" xml:id="S5338208-s6032344-m3650613-l5236807-e6952267"/>
+                <mei:note dur="8" oct="4" pname="a" xml:id="S5338208-s6032344-m3650613-l5236807-e2318625"/>
+                <mei:note dur="8" oct="4" pname="b" xml:id="S5338208-s6032344-m3650613-l5236807-e2937811"/>
+                <mei:note dur="8" oct="5" pname="d" xml:id="S5338208-s6032344-m3650613-l5236807-e3298009"/>
+                <mei:note dur="8" oct="5" pname="c" xml:id="S5338208-s6032344-m3650613-l5236807-e8482588"/>
+                <mei:note dur="8" oct="4" pname="b" xml:id="S5338208-s6032344-m3650613-l5236807-e7285941"/>
+                <mei:note dur="8" oct="4" pname="a" xml:id="S5338208-s6032344-m3650613-l5236807-e5139558"/>
+                <mei:note dur="8" oct="4" pname="g" xml:id="S5338208-s6032344-m3650613-l5236807-e7316745"/>
+            </mei:layer>
+        </mei:measure>
+    </mei:staff>
+
+    <!-- viola -->
+    <mei:staff n="3" xml:id="S5338208-sme-m-l-e2508132">
+        <mei:measure n="1" xml:id="S5338208-s2508132-mme-l-e4920069">
+            <mei:layer n="1" xml:id="S5338208-s2508132-m4920069-lme-e2746391">
+                <mei:note dur="8" oct="4" pname="f" xml:id="S5338208-s2508132-m4920069-l2746391-e6986546"/>
+                <mei:note dur="8" oct="4" pname="e" xml:id="S5338208-s2508132-m4920069-l2746391-e5465281"/>
+                <mei:note dur="4" oct="4" pname="f" xml:id="S5338208-s2508132-m4920069-l2746391-e9981780"/>
+                <mei:rest dur="4" xml:id="S5338208-s2508132-m4920069-l2746391-e8079423"/>
+                <mei:note dur="4" oct="4" pname="a" xml:id="S5338208-s2508132-m4920069-l2746391-e4311547"/>
+                <mei:note dur="8" oct="4" pname="g" xml:id="S5338208-s2508132-m4920069-l2746391-e5690408"/>
+                <mei:note dur="8" oct="4" pname="f" xml:id="S5338208-s2508132-m4920069-l2746391-e2570302"/>
+                <mei:note dur="8" oct="4" pname="e" xml:id="S5338208-s2508132-m4920069-l2746391-e1415265"/>
+                <mei:note dur="8" oct="4" pname="f" xml:id="S5338208-s2508132-m4920069-l2746391-e4225955"/>
+            </mei:layer>
+        </mei:measure>
+        <mei:measure n="2" xml:id="S5338208-s2508132-mme-l-e9716365">
+            <mei:layer n="1" xml:id="S5338208-s2508132-m9716365-lme-e5161359">
+                <mei:note dur="8" oct="4" pname="g" xml:id="S5338208-s2508132-m9716365-l5161359-e1795616"/>
+                <mei:note dur="8" oct="4" pname="e" xml:id="S5338208-s2508132-m9716365-l5161359-e7410180"/>
+                <mei:note dur="4" oct="4" pname="d" xml:id="S5338208-s2508132-m9716365-l5161359-e1396276"/>
+                <mei:rest dur="2" xml:id="S5338208-s2508132-m9716365-l5161359-e6160209"/>
+                <mei:rest dur="2" xml:id="S5338208-s2508132-m9716365-l5161359-e6605311"/>
+            </mei:layer>
+        </mei:measure>
+        <mei:measure n="3" xml:id="S5338208-s2508132-mme-l-e8151235">
+            <mei:layer n="1" xml:id="S5338208-s2508132-m8151235-lme-e5318185">
+                <mei:rest dur="2" xml:id="S5338208-s2508132-m8151235-l5318185-e1303588"/>
+                <mei:rest dur="4" xml:id="S5338208-s2508132-m8151235-l5318185-e1117995"/>
+                <mei:note dur="8" oct="4" pname="d" xml:id="S5338208-s2508132-m8151235-l5318185-e8335890"/>
+                <mei:note dur="8" oct="4" pname="c" xml:id="S5338208-s2508132-m8151235-l5318185-e5763097"/>
+                <mei:note dur="8" oct="3" pname="b" xml:id="S5338208-s2508132-m8151235-l5318185-e8251015"/>
+                <mei:note dur="8" oct="3" pname="a" xml:id="S5338208-s2508132-m8151235-l5318185-e1776621"/>
+                <mei:note dur="8" oct="3" pname="g" xml:id="S5338208-s2508132-m8151235-l5318185-e9273217"/>
+                <mei:note dur="8" oct="3" pname="a" xml:id="S5338208-s2508132-m8151235-l5318185-e7348585"/>
+            </mei:layer>
+        </mei:measure>
+        <mei:measure n="4" xml:id="S5338208-s2508132-mme-l-e2068833">
+            <mei:layer n="1" xml:id="S5338208-s2508132-m2068833-lme-e1381974">
+                <mei:note dur="4" oct="3" pname="b" xml:id="S5338208-s2508132-m2068833-l1381974-e4643146"/>
+                <mei:note dur="4" oct="3" pname="d" xml:id="S5338208-s2508132-m2068833-l1381974-e5206897"/>
+                <mei:note dur="4" oct="3" pname="e" xml:id="S5338208-s2508132-m2068833-l1381974-e2050347"/>
+                <mei:note dur="4" oct="3" pname="f" xml:id="S5338208-s2508132-m2068833-l1381974-e7575086"/>
+                <mei:note dur="4" oct="3" pname="g" xml:id="S5338208-s2508132-m2068833-l1381974-e9121145"/>
+                <mei:note dur="4" oct="3" pname="b" xml:id="S5338208-s2508132-m2068833-l1381974-e2128043"/>
+            </mei:layer>
+        </mei:measure>
+    </mei:staff>
+
+    <!-- cello -->
+    <mei:staff n="4" xml:id="S5338208-sme-m-l-e1903920">
+        <mei:measure n="1" xml:id="S5338208-s1903920-mme-l-e6393220">
+            <mei:layer n="1" xml:id="S5338208-s1903920-m6393220-lme-e2088461">
+                <mei:rest dur="4" xml:id="S5338208-s1903920-m6393220-l2088461-e8956708"/>
+                <mei:note dur="2" oct="3" pname="c" xml:id="S5338208-s1903920-m6393220-l2088461-e9325343"/>
+                <mei:note dur="2" oct="3" pname="d" xml:id="S5338208-s1903920-m6393220-l2088461-e1270457"/>
+                <mei:note dur="4" oct="3" pname="c" xml:id="S5338208-s1903920-m6393220-l2088461-e1342415"/>
+            </mei:layer>
+        </mei:measure>
+        <mei:measure n="2" xml:id="S5338208-s1903920-mme-l-e2279875">
+            <mei:layer n="1" xml:id="S5338208-s1903920-m2279875-lme-e1126442">
+                <mei:note dur="4" oct="2" pname="b" xml:id="S5338208-s1903920-m2279875-l1126442-e2537070"/>
+                <mei:note dur="4" oct="3" pname="c" xml:id="S5338208-s1903920-m2279875-l1126442-e8261664"/>
+                <mei:note dur="4" oct="3" pname="d" xml:id="S5338208-s1903920-m2279875-l1126442-e4356694"/>
+                <mei:note dur="4" oct="2" pname="b" xml:id="S5338208-s1903920-m2279875-l1126442-e5017327"/>
+                <mei:note dur="4" oct="3" pname="c" xml:id="S5338208-s1903920-m2279875-l1126442-e4857123"/>
+                <mei:note dur="4" oct="3" pname="d" xml:id="S5338208-s1903920-m2279875-l1126442-e7672538"/>
+            </mei:layer>
+        </mei:measure>
+        <mei:measure n="3" xml:id="S5338208-s1903920-mme-l-e5831416">
+            <mei:layer n="1" xml:id="S5338208-s1903920-m5831416-lme-e6687573">
+                <mei:note dur="4" oct="3" pname="c" xml:id="S5338208-s1903920-m5831416-l6687573-e9510695"/>
+                <mei:note dur="4" oct="3" pname="d" xml:id="S5338208-s1903920-m5831416-l6687573-e6256882"/>
+                <mei:note dur="4" oct="3" pname="e" xml:id="S5338208-s1903920-m5831416-l6687573-e5961636"/>
+                <mei:note dur="4" oct="3" pname="c" xml:id="S5338208-s1903920-m5831416-l6687573-e3236687"/>
+                <mei:note dur="4" oct="3" pname="d" xml:id="S5338208-s1903920-m5831416-l6687573-e5512784"/>
+                <mei:note dur="4" oct="3" pname="e" xml:id="S5338208-s1903920-m5831416-l6687573-e5760815"/>
+            </mei:layer>
+        </mei:measure>
+        <mei:measure n="4" xml:id="S5338208-s1903920-mme-l-e2742343">
+            <mei:layer n="1" xml:id="S5338208-s1903920-m2742343-lme-e4738289">
+                <mei:rest dur="4" xml:id="S5338208-s1903920-m2742343-l4738289-e6369407"/>
+                <mei:note dur="4" oct="2" pname="d" xml:id="S5338208-s1903920-m2742343-l4738289-e4373548"/>
+                <mei:note dur="4" oct="2" pname="e" xml:id="S5338208-s1903920-m2742343-l4738289-e5677933"/>
+                <mei:note dur="4" oct="2" pname="f" xml:id="S5338208-s1903920-m2742343-l4738289-e2922691"/>
+                <mei:note dur="4" oct="2" pname="g" xml:id="S5338208-s1903920-m2742343-l4738289-e5314497"/>
+                <mei:note dur="4" oct="2" pname="b" xml:id="S5338208-s1903920-m2742343-l4738289-e5280287"/>
+            </mei:layer>
+        </mei:measure>
+    </mei:staff>
+
+    <!-- double bass -->
+    <mei:staff n="5" xml:id="S5338208-sme-m-l-e4781256">
+        <mei:measure n="1" xml:id="S5338208-s4781256-mme-l-e3190401">
+            <mei:layer n="1" xml:id="S5338208-s4781256-m3190401-lme-e2953397">
+                <mei:note dur="2" oct="3" pname="c" xml:id="S5338208-s4781256-m3190401-l2953397-e5047767"/>
+                <mei:note dur="2" oct="3" pname="d" xml:id="S5338208-s4781256-m3190401-l2953397-e9752414"/>
+                <mei:note dur="2" oct="3" pname="d" xml:id="S5338208-s4781256-m3190401-l2953397-e6048062"/>
+            </mei:layer>
+        </mei:measure>
+        <mei:measure n="2" xml:id="S5338208-s4781256-mme-l-e2928071">
+            <mei:layer n="1" xml:id="S5338208-s4781256-m2928071-lme-e9732525">
+                <mei:note dur="4" oct="3" pname="g" xml:id="S5338208-s4781256-m2928071-l9732525-e3256942"/>
+                <mei:note dur="4" oct="3" pname="a" xml:id="S5338208-s4781256-m2928071-l9732525-e8046205"/>
+                <mei:note dur="4" oct="3" pname="b" xml:id="S5338208-s4781256-m2928071-l9732525-e6114269"/>
+                <mei:note dur="4" oct="3" pname="g" xml:id="S5338208-s4781256-m2928071-l9732525-e2120512"/>
+                <mei:note dur="4" oct="3" pname="a" xml:id="S5338208-s4781256-m2928071-l9732525-e8716306"/>
+                <mei:note dur="4" oct="3" pname="b" xml:id="S5338208-s4781256-m2928071-l9732525-e1421383"/>
+            </mei:layer>
+        </mei:measure>
+        <mei:measure n="3" xml:id="S5338208-s4781256-mme-l-e4913729">
+            <mei:layer n="1" xml:id="S5338208-s4781256-m4913729-lme-e3361119">
+                <mei:note dur="4" oct="3" pname="a" xml:id="S5338208-s4781256-m4913729-l3361119-e4873818"/>
+                <mei:note dur="4" oct="3" pname="b" xml:id="S5338208-s4781256-m4913729-l3361119-e2016358"/>
+                <mei:note dur="4" oct="4" pname="c" xml:id="S5338208-s4781256-m4913729-l3361119-e1926919"/>
+                <mei:note dur="4" oct="3" pname="a" xml:id="S5338208-s4781256-m4913729-l3361119-e7885892"/>
+                <mei:note dur="4" oct="3" pname="b" xml:id="S5338208-s4781256-m4913729-l3361119-e1615059"/>
+                <mei:note dur="4" oct="4" pname="c" xml:id="S5338208-s4781256-m4913729-l3361119-e6892132"/>
+            </mei:layer>
+        </mei:measure>
+        <mei:measure n="4" xml:id="S5338208-s4781256-mme-l-e4536619">
+            <mei:layer n="1" xml:id="S5338208-s4781256-m4536619-lme-e2449104">
+                <mei:rest dur="4" xml:id="S5338208-s4781256-m4536619-l2449104-e7446598"/>
+                <mei:note dur="4" oct="3" pname="d" xml:id="S5338208-s4781256-m4536619-l2449104-e9963256"/>
+                <mei:note dur="4" oct="3" pname="e" xml:id="S5338208-s4781256-m4536619-l2449104-e3421977"/>
+                <mei:note dur="4" oct="3" pname="f" xml:id="S5338208-s4781256-m4536619-l2449104-e9524684"/>
+                <mei:note dur="4" oct="3" pname="g" xml:id="S5338208-s4781256-m4536619-l2449104-e7259773"/>
+                <mei:note dur="4" oct="3" pname="b" xml:id="S5338208-s4781256-m4536619-l2449104-e9237052"/>
+            </mei:layer>
+        </mei:measure>
+    </mei:staff>
+</mei:section>

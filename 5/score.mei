@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei:score xmlns:mei="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ly="https://lychee.ncodamusic.org" ly:version="0.4.0">
+    <mei:ptr target="Sme-s-m-l-e5338208.mei" targettype="section" xlink:actuate="onRequest" xlink:show="embed"/>
+    <mei:ptr target="Sme-s-m-l-e3350273.mei" targettype="section" xlink:actuate="onRequest" xlink:show="embed"/>
+    <mei:ptr target="Sme-s-m-l-e9095730.mei" targettype="section" xlink:actuate="onRequest" xlink:show="embed"/>
+</mei:score>

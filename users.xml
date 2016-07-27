@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<users>
+    <user userid="sly" name="宋靓乐" email="pretty.music@example.org"/>
+    <user userid="gb" name="Gérard Bourassa" email="leboor@example.org"/>
+    <user userid="sl" name="Shereen Lafleur" email="shereen@example.org"/>
+    <user userid="wms" name="黄明星" email="celeb@example.org"/>
+    <user userid="fj" name="Fortitude Johnson" email="strength@example.org"/>
+    <user userid="ds" name="Danceathon Smith" email="all_night_long@example.org"/>
+</users>

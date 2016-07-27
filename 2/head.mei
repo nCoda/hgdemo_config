@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei:meiHead xmlns:mei="http://www.music-encoding.org/ns/mei" xmlns:ly="https://lychee.ncodamusic.org" ly:version="0.4.0">
+    <mei:fileDesc>
+        <mei:titleStmt>
+            <mei:title type="main" xml:lang="en">Test Score in Lychee-MEI</mei:title>
+            <mei:title type="subordinate" xml:lang="en">An experiment with XML.</mei:title>
+            <mei:title type="abbreviated" xml:lang="en">Lychee-MEI Test</mei:title>
+            <mei:title type="alternative" xml:lang="en">
+                Some Excerpts from Sibelius&apos; Fifth Symphony.
+            </mei:title>
+            <mei:title type="main" xml:lang="fr">Morceau test de Lychee-MEI</mei:title>
+            <mei:title type="subordinate" xml:lang="fr">Un essai dans XML.</mei:title>
+            <mei:title type="abbreviated" xml:lang="fr">Un test Lychee-MEI</mei:title>
+            <mei:title type="alternative" xml:lang="fr">
+                Quelques extraits de la cinquième symphonie de Sibelius.
+            </mei:title>
+            <mei:title type="main" xml:lang="zh-hans">Lychee-MEI 测试谱</mei:title>
+            <mei:title type="subordinate" xml:lang="zh-hans">一个 XML 实验</mei:title>
+            <mei:title type="abbreviated" xml:lang="zh-Hans">Lychee-MEI 测试</mei:title>
+            <mei:title type="alternative" xml:lang="zh-Hans">
+                部分章节摘于西贝柳斯的第五交响曲
+            </mei:title>
+        </mei:titleStmt>
+        <mei:respStmt>
+            <mei:persName xml:id="p93770">
+                <mei:persName type="full" xml:lang="zh-Hans">宋靓乐</mei:persName>
+                <mei:persName type="given" xml:lang="zh-Hans">靓乐</mei:persName>
+                <mei:persName type="family" xml:lang="zh-Hans">宋</mei:persName>
+                <mei:persName type="full" xml:lang="en" translit="pinyin">Liangyue Song</mei:persName>
+                <mei:persName type="given" xml:lang="en" translit="pinyin">Liangyue</mei:persName>
+                <mei:persName type="family" xml:lang="en" translit="pinyin">Song</mei:persName>
+            </mei:persName>
+            <mei:persName xml:id="p93771">
+                <mei:persName type="full" xml:lang="en">Fortitude Johnson</mei:persName>
+                <mei:persName type="given" xml:lang="en">Fortitude</mei:persName>
+                <mei:persName type="family" xml:lang="en">Johnson</mei:persName>
+            </mei:persName>
+            <mei:persName xml:id="p93772">
+                <mei:persName type="full" xml:lang="fr">Gérard Bourassa</mei:persName>
+                <mei:persName type="given" xml:lang="fr">Gérard</mei:persName>
+                <mei:persName type="family" xml:lang="fr">Bourassa</mei:persName>
+            </mei:persName>
+        </mei:respStmt>
+        <mei:arranger>
+            <mei:persName xml:id="p92600">
+                <mei:persName type="full">Sean Jibelius</mei:persName>
+            </mei:persName>
+        </mei:arranger>
+        <mei:author>
+            <mei:persName xml:id="p92601">
+                <mei:persName type="full">Winthorpe Branchfield</mei:persName>
+            </mei:persName>
+        </mei:author>
+        <mei:composer>
+            <mei:persName xml:id="p92674">
+                <mei:persName type="full">Jean Sibelius</mei:persName>
+                <mei:persName type="given">Jean</mei:persName>
+                <mei:persName type="family">Sibelius</mei:persName>
+            </mei:persName>
+        </mei:composer>
+        <mei:editor>
+            <mei:persName xml:id="p92602">
+                <mei:persName type="full">张乐诗</mei:persName>
+            </mei:persName>
+        </mei:editor>
+        <mei:funder>
+            <mei:persName xml:id="p92603">
+                <mei:persName type="full">SMQ Financial Group</mei:persName>
+            </mei:persName>
+        </mei:funder>
+        <mei:librettist>
+            <mei:persName xml:id="p92604">
+                <mei:persName type="full">桌鲜饺</mei:persName>
+            </mei:persName>
+        </mei:librettist>
+        <mei:lyricist>
+            <mei:persName xml:id="p92605">
+                <mei:persName type="full">Katrine Rauch</mei:persName>
+            </mei:persName>
+        </mei:lyricist>
+        <mei:sponsor>
+            <mei:persName xml:id="p92606">
+                <mei:persName type="full">The Letters W and G.</mei:persName>
+            </mei:persName>
+        </mei:sponsor>
+        <mei:pubStmt>
+            <mei:unPub xml:lang="en">
+                This is an unpublished Lychee-MEI document.
+            </mei:unPub>
+            <mei:unPub xml:lang="fr">
+                Ce document Lychee-MEI n'est pas publié.
+            </mei:unPub>
+            <mei:unPub xml:lang="zh-Hans">
+                这份文件 Lychee-MEI 的没有出版了。
+            </mei:unPub>
+        </mei:pubStmt>
+    </mei:fileDesc>
+</mei:meiHead>
